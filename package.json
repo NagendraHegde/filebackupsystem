@@ -1,0 +1,23 @@
+{
+  "name": "localbackup",
+  "version": "1.0.0",
+  "description": "this nodejs project is supposed to host http apis that back up files in a connected storage device",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NagendraHegde/localbackup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NagendraHegde/localbackup/issues"
+  },
+  "homepage": "https://github.com/NagendraHegde/localbackup#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
