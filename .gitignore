@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+#intellij folders
+.idea/
+
+#any static resource generated during dev
+resources/static/assets
